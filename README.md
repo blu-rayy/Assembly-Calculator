@@ -1,6 +1,6 @@
 # Assembly-Calculator
 
-<h1> A simple arithmetic calculator </h1>
+<h3> A simple arithmetic calculator </h3>
 <p> This calculator adds, subtracts, multiplies, and divides two-digit numbers on assembly. </p>
 <p> NOTE: One-digit numbers must be prefixed with a 0 to ensure the logic works properly. </p>
 <p></p>
